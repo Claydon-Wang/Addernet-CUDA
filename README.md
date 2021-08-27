@@ -5,7 +5,7 @@
 ### This repository is partially referenced to <a href="https://arxiv.org/abs/2010.12785">shiftaddernet</a>.
 
 
-You can ompile the Folder of "adder" to obtain CUDA vision of "adder2D", which can replace "Conv2D" with more efficient use of hardware.<br>
+You can compile the Folder of "adder" to obtain CUDA vision of "adder2D", which can replace "Conv2D" with more efficient use of hardware.<br>
 
-"adder2D-CUDA" can compress over ~10x traning time than non-CUDA version of "adder2D".
+"adder2D-CUDA" can compress over ~10x training time than non-CUDA version of "adder2D".
 
